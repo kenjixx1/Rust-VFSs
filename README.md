@@ -3,8 +3,8 @@
 
 
 # How To Install
-  -Download the file
-  -Open File with ide(make sure you have rust installed)
-  -cargo run on terminal.
+  -Download the file__
+  -Open File with ide(make sure you have rust installed)__
+  -cargo run on terminal
 
   
