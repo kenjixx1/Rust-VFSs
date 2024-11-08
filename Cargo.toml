@@ -1,0 +1,11 @@
+[package]
+name = "Rust-VFS"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = {version = "0.12.1", features=["tokio","advanced","highlighter"]}
+tokio ={version ="1.40", features=["fs","rt","full"]}
+rfd = "0.15.0"
+uuid = { version = "1.1", features = ["v4"] }
+futures-util ="0.3.31"
